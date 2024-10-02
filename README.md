@@ -1,1 +1,3 @@
 # Album-After-Hours
+Una página tributo es un sitio web diseñado para rendir homenaje a una persona, evento, obra de arte, o cualquier tema que el creador quiera destacar. Su objetivo principal es reconocer la importancia o el impacto de ese tema en particular. Estas páginas suelen incluir información biográfica o histórica, imágenes, citas, videos y otros recursos relevantes para celebrar y recordar al homenajeado.
+En este caso mi eleccion para esta pagina tributo es el album de after hours de The Weeknd, esto se debe a que me parecee que es el mejor album que ha lanzado el artista hasta hasta la fecha.
